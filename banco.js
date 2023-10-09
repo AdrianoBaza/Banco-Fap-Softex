@@ -23,3 +23,12 @@ function Banco (conta, tipo, agencia, saldo) {
         console.log(`Número da Conta: ${this.conta}`);
     }
 };
+
+const meuBanco = new Banco(1, 'PF', 100, 5000); // cria a instancia do objeto Banco
+
+meuBanco.buscarSaldo();
+meuBanco.deposito(100);
+meuBanco.buscarSaldo();
+meuBanco.saque(600);
+meuBanco.buscarSaldo();
+meuBanco.numeroDaConta();
