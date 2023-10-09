@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["node", "npm", "objeto", "função construtora", "método"],
+  "keywords": [
+    "node",
+    "npm",
+    "objeto",
+    "função construtora",
+    "método"
+  ],
   "author": "AdrianoBaza",
   "license": "IMT"
 }
