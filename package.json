@@ -1,0 +1,12 @@
+{
+  "name": "banco-fap-softex",
+  "version": "1.0.0",
+  "description": "Banco: Desafio proposto no curso Formação Acelerada em Programação - Softex - BackEnd turma 2 - 2023",
+  "main": "banco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "npm", "objeto", "função construtora", "método"],
+  "author": "AdrianoBaza",
+  "license": "IMT"
+}
